@@ -1,0 +1,11 @@
+{
+  "name": "javascript-playground",
+  "version": "1.0.0",
+  "description": "Practice JavaScript fundamentals, logic, async, DOM and OOP",
+  "main": "index.js",
+  "scripts": {
+    "run": "node"
+  },
+  "author": "",
+  "license": "ISC"
+}
