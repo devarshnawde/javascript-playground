@@ -6,7 +6,7 @@ Track your progress by ticking each problem as you complete it.
 
 ## 🔢 Numbers & Logic
 
-- [ ] **Q1** Swap two variables without using a third variable  
+- [x] **Q1** Swap two variables without using a third variable  
 - [ ] **Q2** Check if a number is even or odd  
 - [ ] **Q3** Find the largest of three numbers  
 - [ ] **Q4** Reverse a number without converting it to a string  
